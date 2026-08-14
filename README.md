@@ -1,37 +1,44 @@
+<!-- Animated Banner -->
 <div align="center">
-  <h1>👋 Hi, I'm Himanshu Shekhar Singh</h1>
-  <h3>💻 B.Tech CSE Student | Developer | Tech Enthusiast</h3>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Engineering;Passionate+Software+%26+Web+Developer;Exploring+AI+%26+Modern+Technologies;Code.+Learn.+Build.+Repeat." alt="Typing Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated Developer Banner" />
 </div>
 
 <br/>
 
-Welcome to my GitHub profile! I'm a Computer Science Engineering student passionate about programming, web development, and exploring new technologies. I enjoy building projects, solving programming problems, and continuously improving my technical skills.
+<div align="center">
+  <h1>👋 Hi, I'm Himanshu Shekhar Singh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Waving Hand"></h1>
+  <h3>💻 B.Tech CSE Student | Developer | Tech Enthusiast</h3>
+  
+  <!-- Animated Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Engineering;Passionate+Software+%26+Web+Developer;Exploring+AI+%26+Modern+Technologies;Code.+Learn.+Build.+Repeat." alt="Typing Animation" />
+</div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider">
 
 ## 🚀 About Me
-<table>
+
+<table border="0">
   <tr>
-    <td width="50%">
+    <td width="60%">
       <ul>
         <li>🎓 <b>B.Tech Computer Science Engineering Student</b></li>
         <li>💻 Interested in <b>Software & Web Development</b></li>
         <li>🌱 Currently leveling up in a <b>Full-Stack Training Bootcamp</b></li>
+        <li>🔍 Exploring new technologies and building practical projects</li>
+        <li>🤝 Open to collaborating on open-source web dev & AI projects</li>
+        <li>⚡ Believe in <i>learning by building</i></li>
       </ul>
     </td>
-    <td width="50%">
-      <ul>
-        <li>🔍 Exploring new technologies and building practical projects</li>
-        <li>🤝 Open to collaborating on interesting open-source projects</li>
-        <li>⚡ Believe in learning by building</li>
-      </ul>
+    <td width="40%" align="center">
+      <!-- Animated Coding GIF -->
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider">
 
 ## 🛠️ Skills & Technologies
 
@@ -52,50 +59,57 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student passion
 
 <br/>
 
-## 📌 What I'm Working On
-- 🐍 **Python projects**
-- 💻 **C/C++** programming and problem solving
-- 🌐 **HTML & CSS** web projects
-- 🤖 Exploring **AI** and modern technologies
-- 🚀 Building projects to strengthen my development skills
+## 📌 What I'm Working On & Featured Projects
 
-<br/>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📂 Active Ventures</h3>
+      <ul>
+        <li>🤖 <b>AI Assistant</b> – An AI-powered assistant project</li>
+        <li>🧮 <b>Web Calculator</b> – Built with HTML, CSS, and JS</li>
+        <li>💧 <b>HiClub Startup</b> – Building the digital ecosystem for a smart water delivery platform</li>
+        <li>🏆 <b>TechSprint 1.0</b> – Hackathon solution using Google tech</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🎯 My Goals</h3>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF5722&center=true&vCenter=true&width=400&lines=Learn+➡️+Build+➡️+Experiment;Improve+➡️+Repeat+🔥" alt="Goals Typing" />
+      </p>
+      <p>My goal is to become a skilled software developer by consistently learning new technologies and building real-world projects.</p>
+    </td>
+  </tr>
+</table>
 
-## 📂 Featured Projects
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider">
 
-| Project | Description | 
-| :--- | :--- |
-| 🤖 **AI Assistant** | An AI-powered assistant project built to explore artificial intelligence capabilities. |
-| 🧮 **Web Calculator** | A dynamic and responsive calculator built using HTML, CSS, and JavaScript. |
-| 💧 **HiClub Startup** | Web development and digital ecosystem design for a smart water delivery platform. |
-| 🏆 **TechSprint 1.0** | AI-driven hackathon project leveraging Google technologies to solve real-world problems. |
+## 📈 GitHub Activity & Stats
 
-<br/>
-
-## 📊 GitHub Stats
-
-<!-- Note: Replace 'your-username' with your actual GitHub username below -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+  <!-- Replace 'your-username' with your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-## 🎯 My Goals
+<!-- GitHub Contribution Snake Animation -->
 <div align="center">
-  <h3>Learn ➡️ Build ➡️ Experiment ➡️ Improve ➡️ Repeat 🔥</h3>
-  <p>My goal is to become a skilled software developer by consistently learning new technologies and building real-world projects.</p>
+  <h3>🐍 My GitHub Contribution Snake</h3>
+  <!-- The image below will show up once you run the GitHub Action (see instructions below) -->
+  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
-<br/>
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider">
 
 ## 🤝 Let's Connect
 
 <div align="center">
-  <p>I'm always interested in connecting with fellow developers, students, and tech enthusiasts. Feel free to explore my repositories!</p>
+  <p>I'm always interested in connecting with fellow developers, students, and tech enthusiasts!</p>
   
-  <!-- Add your links below -->
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -104,7 +118,5 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student passion
   </a>
   
   <br/> <br/>
-  
-  <i>Thanks for visiting my profile! 🚀</i> <br/>
   <b>💡 "Code. Learn. Build. Repeat."</b>
 </div>
